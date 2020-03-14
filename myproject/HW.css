@@ -1,0 +1,47 @@
+.picture{
+    margin: 0 auto;
+    border: 2px solid white;
+    width : 700px;
+    height: 400px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVGBJ27PuzrR0CLyUexxIT3rjvD6GbmvQNfX454mX-BPozwKmE');
+    background-size: cover;
+    background-position: center;
+}
+
+.title1{
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 2px solid white;
+    width : 700px;
+    height: 200px;
+   
+}
+
+.title2{
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 2px solid white;
+    width : 700px;
+    height: 200px;
+}
+
+.wordfont{
+
+}
+
+.parag{
+    margin-top: 50px;
+}
+
+.button1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.center1{
+    margin: 0 auto;
+}
+
+.HW1_font{
+    font-family: 'Nanum Pen Script', cursive;
+}
